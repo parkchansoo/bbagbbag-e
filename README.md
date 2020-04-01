@@ -13,7 +13,7 @@
 ## A. 홈페이지를 이용하자! ( [어플리케이션이 더 좋다면 아래로!](#더캠프) )
 - 장점: 컴퓨터라 텍스트를 쓰기 편하다, 다른 사람들의 편지 제목을 볼 수 있다.
 - 단점: 본인인증이 귀찮다. 본인인증에는 [병무청 간편인증-Android](https://play.google.com/store/apps/details?id=kr.go.mma.bcpsapp) / [병무청 간편인증-Apple](https://apps.apple.com/kr/app/%EB%B3%91%EB%AC%B4%EC%B2%AD-%EA%B0%84%ED%8E%B8%EC%9D%B8%EC%A6%9D/id1488297209) 앱을 이용하는게 편할 수도 있다.
-1. [육군훈련소 내 자녀찾기](https://choosealicense.com/licenses/mit/) 접속하기
+1. [육군훈련소 내 자녀찾기](http://www.katc.mil.kr/katc/community/children.jsp) 접속하기
 2. 입영일자(`20200402`), 생년원일(`931019`), 훈련병 이름(`박찬수`)를 채우고 `검색` 버튼 클릭! 그리고 편지 쓰기까지 클릭
 
 ![process_enroll](./images/process_resize.png)
